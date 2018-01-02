@@ -41,7 +41,7 @@ library(tsDyn)
 library(ggplot2)
 
 
-### Zródla
+### ZrÃ³dla
 source("./PrivateLib.R")
 source("./Holidays.R")
 
